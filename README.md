@@ -10,13 +10,13 @@ Desmistificando DevOps
 <p  align="center">
     <a  href="#-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a  href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a  href="#-devops-na-prática">DevOps na Prática</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a  href="#-devops-na-prática">Desmistificando DevOps</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a  href="#-licença">Licença</a>
 </p>
 
 ## ☕ O Projeto
 
-O projeto consiste em uma aplicação simples para exemplificação para apresentação: **Desmistificando DevOps**
+O projeto consiste em uma aplicação simples para exemplificação da apresentação: **Desmistificando DevOps**
 Trata-se de um **Hello World** apresentado no Browser de forma diferente.
 
 ## ☕ Tecnologias

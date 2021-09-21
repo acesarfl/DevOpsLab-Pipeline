@@ -1,13 +1,13 @@
 {
   "name": "hello-world",
   "version": "1.0.0",
-  "description": "Test pipeline DevOps",
+  "description": "Desmistificando DevOps",
   "main": "app.js",
   "scripts": {
     "test": "mocha",
     "start": "node app.js"
   },
-  "author": "Matheus Ferraz",
+  "author": "Tony Cesar",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
